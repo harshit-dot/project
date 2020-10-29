@@ -1,0 +1,468 @@
+/* big tablet */
+@media only screen and (max-width:1200px){
+    .hero-text-box,.row{
+       
+        width: 100%;
+        padding: 0 2%;}
+     .social-links{
+        margin-top:20px;
+        
+    }
+    .footer-nav{ margin-top: 13px;}
+         
+            
+    
+}
+/* ipad portrait mode screen */
+@media only screen and (max-width:1023px){
+    body{font-size: 18px;}
+    .footer-nav{ margin-top: 13px;}
+    .heading,heading1,.heading2,heading3,.heading4,.heading6,.heading7{
+        font-size: 30px;
+        padding: 0;
+        margin: 0;
+        margin-top: 30px;
+    }
+    div p:last-child{
+        margin:30px;
+    }
+    .hero-text-box,.row{
+       
+        width: 100%;
+        padding: 0 2%;}
+     .social-links{
+        margin-top:20px;
+        
+    }
+     .khanna{
+        font-size:30px;
+        padding: 0;
+        margin: 0;
+        margin-top: 30px;
+         margin-bottom: 40px;
+    }
+    .heading5{
+        font-size:18px;
+    
+    
+    
+    }
+    .heading4{
+        padding: 0px;
+        margin-top: 30px;
+    }
+    .steps-box{
+        margin-top: 10px;
+        
+    }
+    .works-step{
+    margin-bottom:30px; 
+    
+}
+    .steps-box:last-child{margin-top: 10px;}
+    .works-steps{margin-bottom: 40px;margin-bottom: 60px;}
+    .work-steps:last-of-type{}
+    
+    .heading7{
+        margin-bottom: 40px;
+        
+    }
+    .app-btn{
+        width:10px;
+        padding: 10px;
+        
+    }
+      .hero-text-box{
+       
+        width: 100%;
+        padding: 0 2%;}
+    .app-screen{
+        height:300px;
+        width:150px;
+    }
+    .social-links{
+        margin-top:20px;
+        
+    }
+              
+    
+
+    .row{
+        padding:0 2%;
+    }
+    
+    
+}
+
+/* tablets */
+@media only screen and (max-width:772px){
+     .heading7{
+        margin-bottom: 40px;
+        padding-bottom: 0px;
+    }
+    
+    div p:last-child{
+        margin:20px;
+    }
+    .mobile-nav-icon{
+        display: inline-block;
+    }
+    .main-nav{
+        float:left;
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+    .main-nav li{
+        display: block;
+        padding: 10px 0;
+        
+        
+    }
+      .sticky .main-nav{
+    margin-top: 12px;
+}
+.sticky .main-nav li a:link,
+.sticky .main-nav li a:visited{
+    
+  
+    padding: 0px 0;
+
+}
+     .sticky .mobile-nav-icon{
+        margin-top:20px;
+    }
+    .sticky .mobile-nav-icon i{
+        color:#555;
+    }
+    
+
+    .main-nav li a:link,
+    .main-nav li a:active{
+        display: block;
+         border: 0;
+        
+    }
+    .main-nav{display: none;}
+    body{font-size: 14px;}
+    .heading,heading1,.heading2,heading3,.heading4,.heading6,.heading7{
+        font-size: 20px;
+        padding: 0;
+        margin: 0;
+        margin-top: 25px;
+    }
+    
+    .hero-text-box,.row{
+       
+        width: 100%;
+        padding: 0 2%;}
+     .social-links{
+        margin-top:20px;
+        
+    }
+    .mobile-nav-icon{
+        display: inline-block;
+    }
+    .mar{
+        font-size: 12px;
+    }
+    .works-step{
+        margin-bottom: 20px;
+
+    }
+    .heading2{
+        font-size:25px;
+    }
+   .btn-app img{
+    height: 30px;
+    width: :auto;
+    margin-right: 10px;
+}
+    .city-features{
+    padding:4px;
+    
+}
+    .social-links{
+        float:none;
+        display: list-item;
+        
+        
+    } 
+    .footer-nav{
+        
+        float: left;
+        display: list-item;
+        
+    }
+    
+        
+    
+    h2:after{
+    display:block;
+    height: 2px;
+    background-color: #e67e22;
+    content: " ";
+    width: 100px;
+    margin: 0 auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    }
+    h3:after{
+    display:block;
+    height: 2px;
+    background-color: #e67e22;
+    content: " ";
+    width: 50px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+    .khanna{
+        font-size:20px;
+        padding: 0;
+        margin: ;
+        margin-top: 25px;
+    }
+    .long-copy{
+        padding-top: 0;
+        padding-bottom: 0px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        text-align: center;
+        
+    
+
+    }
+    .logo{
+        width:10%;
+        height:auto;
+        margin:2%;
+    }
+    
+    .heading5{
+        font-size:12px;
+        padding: 0;
+    }
+    .heading4{
+        padding: 0px;
+        margin-top: 25px;
+    }
+    .har{
+        font-size: 16px;
+        padding: 0;
+        margin: 0;
+        margin-top: 25px;
+    }
+    
+}
+/* small phones */
+@media only screen and (max-width:480px){
+    .hero-text-box,.row{
+       
+        width: 100%;
+        padding: 0 2%;}
+    body{
+        font-size: 12px;
+    }
+    .heading1,.heading2,.heading{
+    font-size:16px;
+}
+    .steps-box{
+    margin:px;
+    
+}
+    .steps-box:first-child{
+
+    padding-right: 3%;
+    margin-top: 30px;
+    
+    
+}
+    .steps-box:last-child{
+    padding-left: 3%;
+    margin-top: 0px;
+}
+    .heading{
+    margin-top: 0px;
+        font-size: 16px;
+        
+}
+.app-screen{
+    width:0%;
+    height:0%;
+    
+    
+}
+    .works-step{
+    margin-bottom:010px; 
+    
+}
+    .works-step div{
+    color: #e67e22;
+    border:2px solid #e67e22;
+    display:inline-block;
+    border-radius: 50%;
+    height: 25px;
+    width:25px;
+    text-align: center;
+    padding:0;
+    float:left;
+    font-size: 150%;
+    margin-right: 25px;
+}
+    .btn-app img{
+    height: 30px;
+    width: :auto;
+    margin: 10px;
+}
+    .works-step:last-of-type{
+    margin-bottom: 0px;
+}
+.box img{
+    width:25%;
+    height: auto;
+    
+    
+}
+    .khanna{
+    padding-top:  0px;
+    font-size: 16px;
+}
+    .city-features{
+    padding:0px;
+        
+    
+}
+
+    .heading5{
+        padding: 0;
+        margin: 0;
+        
+    }
+    .city{
+    padding-top: 0px;
+}
+    .heading4{
+    font-size: 16px;
+}
+
+
+      .long-copy{
+        padding-top: 0;
+        padding-bottom: 0px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    
+
+    }
+    .heading5{
+        font-size:12px;
+        padding: 0;
+    }
+    .heading4{
+        padding: 0px;
+        margin-top: 25px;
+    }
+    h2{
+    font-size: 300%;
+    
+    
+    word-spacing: 4px;
+    padding: 0px;
+    margin-bottom:0px;
+}
+h2:after{
+    display:block;
+    height: 2px;
+    background-color: #e67e22;
+    content: " ";
+    width: 100px;
+    margin: 0 auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+    .box{
+    padding: 1%;
+    padding-bottom: 0px;
+    
+}
+    h3{
+    text-transform: uppercase;
+    font-size: 16px;
+    margin: 0px 0;
+    font-weight: 200;
+}
+h3:after{
+    display:block;
+    height: 2px;
+    background-color: #e67e22;
+    content: " ";
+    width: 50px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+    div p{
+        padding: 0;
+        margin: 0;
+    
+    }
+    .jar{
+        
+    }
+    .khanna{
+        font-size: 16px;
+    }
+    .section-form{
+        padding:0px;
+        margin: 0px;
+        
+    }
+    blockquote{
+    padding: 0;
+    font-style: italic;
+    line-height: 100%;
+}
+    .heading7{
+    font-size: 16px;
+    padding:0;
+    margin-bottom: 40px;
+}
+.contact-form{
+    width:2%;
+    margin: 0 auto;
+}
+    input[type=text],input[type=email],select,textarea{
+    width:96%;
+    padding:0px;
+    border-radius: 0px;
+    border:1px solid grey;
+    
+}
+    textarea{
+    height:40px;
+}
+    .social-links{
+    margin-top: 20px;
+    margin: 9%;
+        margin-bottom: 0
+}
+    .har{
+        font-size: 14px;
+        margin:3px;
+        
+    }
+    .footer-nav{
+        margin:9%;
+        margin-bottom: 0;
+        
+    }
+    div p:last-child{
+        margin:10px;
+    }
+    
+input[type=checkbox]{
+    margin:0px 0px 0px 0;
+}
+    
+}
