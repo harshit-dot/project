@@ -616,7 +616,9 @@ margin-left: 2px;
         left:-3.03%;
         
     }
-  
+    .logo{
+        height:129px;
+    } 
     
     
 }
@@ -681,6 +683,9 @@ margin-left: 2px;
     .movies{
         display: none
     }
+    .logo{
+        height:90px;
+    }
   
     
     
@@ -744,6 +749,9 @@ margin-left: 2px;
     .movies{
         display: none
     }
+    .logo{
+        height:70px;
+    }
   
     
     
@@ -800,6 +808,9 @@ margin-left: 2px;
     }
     .sign-in{
         display: none;
+    }
+    .logo{
+        height:60px;
     }
     
         
